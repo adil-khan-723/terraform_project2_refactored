@@ -3,7 +3,6 @@
 [![Terraform](https://img.shields.io/badge/Terraform-v1.0+-623CE4?style=flat&logo=terraform)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)]()
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat)]()
 
 > **PROJECT 2 — IMPROVED** | Refactored Non-Modular Version
 
