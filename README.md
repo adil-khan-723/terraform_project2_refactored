@@ -119,7 +119,12 @@ Instances are created dynamically using a `for_each` loop. Subnets are assigned 
 
 ```hcl
 # Example logic (simplified)
-subnet_id = element(data.aws_subnets.default.ids, index(keys(local.instances), each.key) % length(data.aws_subnets.default.ids))
+locals {
+  instances = {
+    for i in range(var.nos) :
+    "instance-${i + 1}" => data.aws_subnets.default_subents.ids[i % length(data.aws_subnets.default_subents.ids)]
+  }
+}
 ```
 
 **Benefits:**
