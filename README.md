@@ -330,7 +330,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 **Your Name**
 
 - GitHub: [@adilk-khan-723](https://github.com/adil-khan-723)
-- LinkedIn: [@adilk3682](www.linkedin.com/in/adilk3682)
+- LinkedIn: [@adilk3682](https://www.linkedin.com/in/adilk3682)
 
 ---
 
